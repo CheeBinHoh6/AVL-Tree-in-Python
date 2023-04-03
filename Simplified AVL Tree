@@ -1,3 +1,6 @@
+# I created an implementation of a self-balancing binary (AVL) tree in Python that populates nodes with 
+# the corresponding word and embedding pairs from the given lists. Referencing NLP's and a Natural Language Toolkit.
+
 import re
 
 class Node:
